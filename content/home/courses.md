@@ -27,6 +27,6 @@ date_format = "Jan 2006"
 
 * **Mathematics for Machine Learning Specialization** by *Imperial College London* at Coursera
 
-* **Aritficial Intelligence, Machine Learning and Deep Learning** by the Computer Science Department at *Johns Hopkins University*
+* **Artificial Intelligence, Machine Learning and Deep Learning** by the Computer Science Department at *Johns Hopkins University*
 
 * **SQL For Data Analysis** at Udacity (Currently pursuing)
