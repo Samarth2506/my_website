@@ -55,7 +55,7 @@ $ git push # push all changes to the remote
 
 $ hugo -d ../yourgithubusername.github.io # re-deploy website
 
-$ cd ../yourgithubusername.github.io
+$ cd ../samarth2506.github.io
 
 $ git add .
 
