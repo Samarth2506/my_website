@@ -24,10 +24,16 @@ subtitle = "Data Science Case Studies"
   [[content.filter_button]]
     name = "All"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
   
   [[content.filter_button]]
     name = "Reinforcement Learning"
     tag = "Reinforcement Learning"
+
+ 
 
   [[content.filter_button]]
     name = "Machine Learning"

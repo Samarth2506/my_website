@@ -15,4 +15,4 @@ weight = 70
 
 +++
 
- Click here to access my [resume](files/cv.pdf). (Last updated: February 1, 2020)
+ Click here to access my [resume](files/cv.pdf). (Last updated: June 1, 2020)
