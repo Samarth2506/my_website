@@ -56,10 +56,41 @@ For efficient computation, the images were resized to Numpy arrays of [64x64] an
 
 ## **General Setup**
 
+### **AutoGAN Training**
+
+![AutoGAN](AutoGAN.png)
+
+*Source [Zhang et al., 2019]*
+
+The AutoGAN is trained to reconstruct images based on real images from the CelebA dataset. The encoder network outputs a latent representation which is given to the decoder layer to generate images. As a result, the network outputs a reconstructed image for every real image (pair-wise generation).
+
+An additional variation experimented was using a 1-layer AutoGAN versus 4-layers to test if more complex architectures of AutoGANs can learn better.
+
+
+### **Experiment - 1**
+
+![approaches](approaches.jpg "approches")
+
+In Approach 1, The real and fake images were passed for a simple CNN classification (using the Alexnet architecture). For Approach 2, The real and fake images were first passed to the trained AutoGAN and each result was then passed to Alexnet for the final classification.
+
 </br>
 
+### **Experiment - 2**
 
-![approaches](approaches.jpg "something")
+![approaches](setup-2.png "approches")
+
+## **Results**
+
+### **Experiment - 1 Performance**
+
+
+### **Experiment - 2 Performance**
+
+## **Takeaways**
+
+
+
+
 <!-- *Fig. 1: Something* -->
 
 <!-- <img src="approaches.jpg" width="600" height="400" /> -->

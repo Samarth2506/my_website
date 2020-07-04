@@ -53,7 +53,7 @@ $ git commit -m "some changes"
 
 $ git push # push all changes to the remote
 
-$ hugo -d ../samarth2506.github.io # re-deploy website
+$ hugo -d samarth2506.github.io # re-deploy website
 
 $ cd ../samarth2506.github.io
 
