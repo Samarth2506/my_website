@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student - Robotics
+role: Graduate Student - Robotics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Data Science and Robotics.
+bio: My research interests include Artificial Intelligence, Data Science and Machine Learning.
 
 interests:
 - Artificial Intelligence
@@ -71,9 +71,11 @@ email: "smarudh1@jhu.edu"
 # - Visitors
 ---
 
-I am a graduate student specializing in Artificial Intelligence and Machine Learning in Robotics at Johns Hopkins University. Prior to graduate school, I worked with Fortune 500 companies to deploy Data Science solutions at scale. 
+I am a graduate student specializing in Artificial Intelligence and Machine Learning at Johns Hopkins University. Prior to graduate school, I worked with Fortune 500 companies to deploy Data Science solutions at scale. 
 
-I also enjoy teaching and have developed case studies in Python/R to implement Statistical, Machine Learning and Deep Learning models. This website showcases my projects and interests.
+Currently, I am building an open source Python application to learn and teach AI at the JHU Data Science Lab. I am also interning part-time with a Michigan based analytics firm working on Computer Vision problems. 
+
+I am passionate about solving real world problems through Data Science tools I have picked up professionally and academically over the years. I also enjoy teaching and have developed case studies in Python/R to implement Statistical, Machine Learning and Deep Learning models. This website showcases my projects and interests.
 
 
 
