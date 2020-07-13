@@ -50,7 +50,7 @@ social:
   link: 'mailto:smarudh1@jhu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Samarth2506
 
 - icon: linkedin
   icon_pack: fab
@@ -77,8 +77,3 @@ Currently, I am building an open source Python application to learn and teach AI
 
 I am passionate about solving real world problems through Data Science tools I have picked up professionally and academically over the years. I also enjoy teaching and have developed case studies in Python/R to implement Statistical, Machine Learning and Deep Learning models. This website showcases my projects and interests.
 
-
-
-<!-- I am a graduate student at Johns Hopkins University pursuing a Masters in Robotics where I am specializing in Artificial Intelligence. Prior to graduate school, I worked as a full-time data scientist where I have consulted with Fortune 500 companies to deliver Data Science solutions and involved in research projects. 
-
-Additionally, I also used to teach Data Science to professionals where I thought Python/R code to implement Statistical, Machine Learning and Deep Learning models. in Data Science. -->
