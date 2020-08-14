@@ -33,8 +33,8 @@ slides: ""
 ---
 
 
-I am currently developing Swirypy, an open source Python package for users to learn and teach AI at the Johns Hopkins Data Science Lab. The work is inspired by [Swirl](https://swirlstats.com/) for R. 
+I am currently developing Swirlypy, an open source Python package for users to learn and teach AI at the Johns Hopkins Data Science Lab. The work is inspired by [Swirl](https://swirlstats.com/) for R. 
 
-I am adding features to the package for users to write lessons that are scalable and modularized to interoperate seamlessly with Python libraries to enable easy content creation by instructors. 
+I am adding features to the package for users to write lessons that are scalable : instructors can choose from a wide variety of questions and answer tests to enable easy content creation. Further, the application is modularized to interoperate seamlessly with Python libraries resulting in a rich environment for learning.
 
-The project has been exciting and challenging with my first foray in to Python development. Feel free to write to me to know more and stay tuned for more.
+The project has been exciting and challenging with my first foray in to Python development. Feel free to write to me to know more.
